@@ -2,9 +2,6 @@
 {-# LANGUAGE DuplicateRecordFields #-}
 {-# LANGUAGE OverloadedRecordDot #-}
 {-# LANGUAGE QuasiQuotes #-}
-{-# OPTIONS_GHC -Wno-unrecognised-pragmas #-}
-
-{-# HLINT ignore "Use lambda-case" #-}
 
 module Main where
 
